@@ -1,3 +1,4 @@
 /myenv
 /transcripts
 /__pycache__
+.env
